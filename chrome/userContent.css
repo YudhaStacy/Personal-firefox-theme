@@ -1,0 +1,16 @@
+.personalize-button { display: none !important; } 
+@-moz-document url("about:newtab"),
+               url("about:home")
+{
+  :root[lwt-newtab-brighttext] {
+    --newtab-background-color: #1a1a1a !important;
+  }
+}
+
+@-moz-document url-prefix("about:") {
+  :root {
+    --in-content-page-background: #1a1a1a !important;
+    --in-content-box-background: #222 !important;
+    --in-content-table-background: #222 !important;
+  }
+}
