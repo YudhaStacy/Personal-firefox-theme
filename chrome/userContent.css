@@ -14,3 +14,9 @@
     --in-content-table-background: #222 !important;
   }
 }
+/* dark blank tab */
+@-moz-document url(about:blank), url(about:newtab) {
+  #newtab-window, html:not(#ublock0-epicker) {
+      background: #1a1a1a !important;
+  }
+}
