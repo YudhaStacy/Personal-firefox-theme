@@ -5,4 +5,5 @@ Preview
 
 
 Preview work-color-theme
-<a href="Preview/Preview-theme.jpg"></a>
+![Screenshot 2024-07-07 160852](https://github.com/user-attachments/assets/57c8bf04-2248-4832-b1b9-78fc3c9deaea)
+![Screenshot 2024-07-07 160852tt](https://github.com/user-attachments/assets/b6aad2cc-8e9f-4521-946a-1873111a7e20)
